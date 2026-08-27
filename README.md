@@ -1,4 +1,4 @@
-API Connect - Usuários
+*API Connect - Usuários*
 
 Objetivo
 
@@ -32,11 +32,11 @@ Como executar o projeto
 
 1\. Clone o repositório
 
-git clone LINK\_DO\_REPOSITORIO
+git clone https://github.com/LaysRoque/api-connect-lays-roque.git
 
 2\. Acesse a pasta do projeto
 
-cd api-connect-nome-sobrenome
+cd api-connect-lays-roque
 
 3\. Instale as dependências
 
@@ -226,23 +226,4 @@ Exemplo:
 
 Status: 200 OK
 
-
-
-Remover usuário
-
-
-
-DELETE /users/:id
-
-
-
-Exemplo:
-
-
-
-/users/1
-
-
-
-Status: 204 No Content
 
